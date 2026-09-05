@@ -2,7 +2,11 @@
 
 liang-quique 的个人工具网站，第一阶段包含首页和日序网页版。
 
-预定地址：`https://liang-quique.github.io/`。这是目标地址，不代表已经发布。
+网站已于 2026-09-05 发布：[个人首页](https://liang-quique.github.io/) · [日序](https://liang-quique.github.io/dayline/)。
+
+发布使用 GitHub Actions，后续推送到 `main` 会自动验证、构建并更新网站。
+
+首版验证：本地及 GitHub Actions 均通过 12 个日程算法场景；浏览器验证了创建、开始、暂停、刷新恢复、继续和完成；线上首页与日序入口已实际打开确认。已加入窄屏样式，但本次浏览器尺寸覆盖工具未实际生效，手机真机显示仍需后续确认。
 
 ## 本地预览
 
